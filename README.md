@@ -24,8 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Mojetioluwa/tailwindcss-qr-code-component-main
 
 ## My process
 
@@ -58,7 +57,7 @@ I want to continue to learn Tailwind CSS and use it in future projects.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Mojetioluwa Ewetola](https://github.com/Mojetioluwa)
+- Frontend Mentor - [@Mojetioluwa](https://www.frontendmentor.io/profile/Mojetioluwa)
+- Twitter - [@mojetioluwaDE](https://twitter.com/mojetioluwaDE)
 
